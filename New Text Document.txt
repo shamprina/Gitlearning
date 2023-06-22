@@ -2,5 +2,6 @@ hello git bash
 
 hello Mira
 
-hello sachin
+hello Sachin
 
+Hello kirti
